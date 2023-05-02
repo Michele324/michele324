@@ -1,4 +1,4 @@
-# [MICHELE] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Michele <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Luana Michele </strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
